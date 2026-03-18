@@ -1,6 +1,7 @@
 # Project-Hyrule
 Various Systems designed for Java and Bedrock for Project Hyrule.
-This repository serves as a technical portfolio. The source code is maintained in a private repository to protect project IP and other IP not owned by me. 
+This repository serves as a technical portfolio. The source code is maintained in a private repository to protect project IP and other IP not owned by me.
+
 Written in *Python, JSON, CSV, .NET Visual Basic*
 
 
