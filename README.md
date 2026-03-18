@@ -15,6 +15,9 @@ Divine Beasts recreated using my automated tools
 https://github.com/user-attachments/assets/a1af0232-1a6c-4665-aab5-cc2111b15f94
 
 Animation Automation tool to extract animations and input even on a seemingly incompatable format. 
+
 https://github.com/user-attachments/assets/a51e5e9f-9fe0-4489-bfb2-09d1a43bbebf
 
+*Explanation of Polymesh Import*
+[![Youtube Video](https://github.com/user-attachments/assets/1d80f0bb-92f8-4340-b588-1763b5c50c36)](https://youtu.be/8bbPLurk2a8)
 
