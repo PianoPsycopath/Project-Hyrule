@@ -2,7 +2,7 @@
 Various Systems designed for Java and Bedrock for Project Hyrule.
 This repository serves as a technical portfolio. The source code is maintained in a private repository to protect project IP and other IP not owned by me.
 
-Written in *Python, JSON, CSV, .NET Visual Basic*
+Written in **Python, JSON, CSV, .NET Visual Basic**
 
 
 # Mass 1:1 World Conversion 
